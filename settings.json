@@ -1,8 +1,6 @@
 {
     "app_name": "BOT",
-    "version" : "v2.0.1",
-    "main_url": "s3://twbot-release-download/main.exe",
-    "force_update": true,
+    "version" : "v1.0.0",
     "copyright" : "",
     "year" : 2025,
     "theme_name" : "default",
