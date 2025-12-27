@@ -1,6 +1,6 @@
 {
     "app_name": "BOT",
-    "version" : "v2.0.2",
+    "version" : "v2.0.3",
     "main_url": "https://twbot-release-download.s3.us-west-2.amazonaws.com/main.exe",
     "force_update": true,
     "copyright" : "",
